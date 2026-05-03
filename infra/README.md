@@ -22,6 +22,7 @@ Se surgirem variaveis:
 ## Checklist de Deploy
 - [ ] Confirmar pasta publicada.
 - [ ] Validar `netlify.toml`.
-- [ ] Revisar formulario.
+- [ ] Revisar formulario `lead-olympo` com atributos do Netlify Forms no HTML publicado.
+- [ ] Configurar notificacoes de formulario no painel da Netlify, se a operacao precisar receber leads por email.
 - [ ] Revisar headers.
 - [ ] Testar URL final.
